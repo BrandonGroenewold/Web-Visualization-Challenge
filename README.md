@@ -16,3 +16,5 @@
 ### CSS
 - Add any css you may need to make the page fit your preference.
 
+### Link
+- [Dashboard] https://brandongroenewold.github.io/Web-Visualization-Challenge/
