@@ -1,4 +1,4 @@
-# Unit 11 Homework: Web Visualization Dashboard 
+# Web Visualization Dashboard 
 
 - In VS code create an HTML file for index, comparison, data, table, one for each weather group (cloudiness, humidity, temperature, and windspeed) and places to store your css and images
 
